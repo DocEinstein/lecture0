@@ -13,3 +13,12 @@ section div div.sec1 {
   width: auto;
   height: 26px;
 }
+
+
+div.second-section {
+  width: 200px;
+  height: 200px;
+  background-color: brown;
+  text-align: center;
+  text-decoration: underline;
+}
